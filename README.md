@@ -14,6 +14,8 @@ We recommend that you install python from [Anaconda3](https://www.anaconda.com/d
 
 ## Usage
 
+The presentation use [Revealjs](https://revealjs.com/). It should run easily on every modern browsers. I just tested it on `Chrome Version 62.0.3202.75 (Official Build) (64-bit)`.
+
 `git clone` this repository. Launch:
 
 ```bash
