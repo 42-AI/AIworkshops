@@ -169,11 +169,11 @@
 			parallaxBackgroundImage: 'images/bg_header_website.png', // CSS syntax, e.g. "a.jpg"
 
 			// Parallax background size
-			parallaxBackgroundSize: '', // CSS syntax, e.g. "3000px 2000px"
+			parallaxBackgroundSize: '3000px 2000px', // CSS syntax, e.g. "3000px 2000px"
 
 			// Amount of pixels to move the parallax background per slide step
-			parallaxBackgroundHorizontal: 200,
-			parallaxBackgroundVertical: 50,
+			parallaxBackgroundHorizontal: 50,
+			parallaxBackgroundVertical: 25,
 
 			// The maximum number of pages a single slide can expand onto when printing
 			// to PDF, unlimited by default
